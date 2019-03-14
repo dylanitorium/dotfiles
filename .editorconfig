@@ -1,0 +1,21 @@
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = spaces
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.js]
+max_line_length = 100
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.yml]
+indent_size = 2
+indent_style = space
+
+[*.rb]
+indent_size = 2
+indent_style = space
